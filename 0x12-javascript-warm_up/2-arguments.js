@@ -1,11 +1,8 @@
 #!/usr/bin/node
-function arguments() {
-  if (process.argv[2] === false) {
+if (!process.argv[2]) {
    console.log('No Argument')
   }
-  else if (process.argv[2] === true && process.argv[3] === false) {
+else if (process.argv[2] && !process.argv[3]) {
     console.log('Argument found')
   }
-  console.log('Arguments found')
-
-}
+console.log('Arguments found')
