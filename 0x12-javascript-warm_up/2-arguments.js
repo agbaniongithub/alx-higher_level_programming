@@ -5,4 +5,6 @@ if (!process.argv[2]) {
 else if (process.argv[2] && !process.argv[3]) {
     console.log('Argument found')
   }
+else {
 console.log('Arguments found')
+}
