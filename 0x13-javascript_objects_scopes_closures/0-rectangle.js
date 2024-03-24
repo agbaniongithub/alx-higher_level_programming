@@ -1,4 +1,7 @@
 #!/usr/bin/node
-class Rectangle {
-constructor()
-}
+/**
+ * Represents a rectangle
+ */
+class Rectangle {}
+
+module.exports = Rectangle;

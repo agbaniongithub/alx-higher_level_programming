@@ -1,1 +1,1 @@
-Project by ALX. Coded by David Agbaniyaka
+# Solutions to tasks on JavaScript - Objects, Scopes and Closures
