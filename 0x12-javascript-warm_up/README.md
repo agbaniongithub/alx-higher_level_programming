@@ -1,1 +1,1 @@
-This is a project by ALX, Coded by David Agbaniyaka
+# Solution to tasks on JavaScript - Warm up
